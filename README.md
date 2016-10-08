@@ -25,6 +25,7 @@ We need Perl volunteers for new features, test writing, debugging, refactoring.
 - Install the Open Food Facts app (https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner - Help us make it available on iOS)
 - Visit the web version for your country (http://world.openbeautyfacts.org)
 - Visit the wiki (http://en.wiki.openbeautyfacts.org)
+
 **Translations**
 ===
 - http://en.wiki.openbeautyfacts.org/Translations
