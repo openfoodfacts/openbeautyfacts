@@ -1,6 +1,8 @@
 # Open Beauty Facts
 meta project for Open Beauty Facts.
 
+![Open Beauty Facts] (http://static.openbeautyfacts.org/images/misc/openbeautyfacts-logo-en-178x150.png)
+
 **Description**
 ===
 Open Beauty Facts meta-project. For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server)
