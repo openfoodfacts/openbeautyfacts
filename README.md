@@ -8,7 +8,7 @@ meta project for Open Beauty Facts.
 [![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/openfoodfacts/openbeautyfacts.svg)](http://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/openfoodfacts/openbeautyfacts.svg)](http://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Percentage of issues still open")
-
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/openfoodfacts/localized.svg)](https://crowdin.com/project/openfoodfacts)
 
 For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server)
 
