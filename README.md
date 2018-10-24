@@ -10,9 +10,9 @@ meta project for Open Beauty Facts.
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/openfoodfacts/openbeautyfacts.svg)](http://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Percentage of issues still open")
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/openfoodfacts/localized.svg)](https://crowdin.com/project/openfoodfacts)
 
-For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server)
+For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server).
 
-![Open Beauty Facts] (http://static.openbeautyfacts.org/images/misc/openbeautyfacts-logo-en-178x150.png)
+![Open Beauty Facts](http://static.openbeautyfacts.org/images/misc/openbeautyfacts-logo-en-178x150.png)
 ## What is Open Beauty Facts ##
 
 ### A cosmetic products database
@@ -29,7 +29,7 @@ Open Beauty Facts is a non-profit association of volunteers.
 Data about cosmetics is of public interest and has to be open. The complete database is published as open data and can be reused by anyone and for any use. Check-out the cool reuses or make your own!
 - <http://world.openbeautyfacts.org>
 
-## Come scan with us ! ##
+## Come scan with us! ##
 
 **Open Beauty Facts** needs contributors for documentation, bug triaging, code, feedbacks…
 We need Perl volunteers for new features, test writing, debugging, refactoring.
