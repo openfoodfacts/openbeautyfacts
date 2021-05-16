@@ -5,14 +5,18 @@ meta project for Open Beauty Facts.
 **Status**
 ===
 
-[![Project Status](http://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/openfoodfacts/openbeautyfacts.svg)](http://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/openfoodfacts/openbeautyfacts.svg)](http://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Percentage of issues still open")
+[![Project Status](https://opensource.box.com/badges/active.svg)](http://opensource.box.com/badges)
+[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/openfoodfacts/openbeautyfacts.svg)](https://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Average time to resolve an issue")
+[![Percentage of issues still open](https://isitmaintained.com/badge/open/openfoodfacts/openbeautyfacts.svg)](https://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Percentage of issues still open")
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/openfoodfacts/localized.svg)](https://crowdin.com/project/openfoodfacts)
 
 For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server).
+Android app: https://github.com/openfoodfacts/openfoodfacts-androidapp
+iOS: https://github.com/openfoodfacts/openfoodfacts-ios
+Flutter app: https://github.com/openfoodfacts/openfoodfacts-dart and https://github.com/openfoodfacts/smooth-app
 
-![Open Beauty Facts](http://static.openbeautyfacts.org/images/misc/openbeautyfacts-logo-en-178x150.png)
+
+![Open Beauty Facts](https://static.openbeautyfacts.org/images/misc/openbeautyfacts-logo-en-178x150.png)
 ## What is Open Beauty Facts ##
 
 ### A cosmetic products database
@@ -27,7 +31,7 @@ Open Beauty Facts is a non-profit association of volunteers.
 ### For everyone
 
 Data about cosmetics is of public interest and has to be open. The complete database is published as open data and can be reused by anyone and for any use. Check-out the cool reuses or make your own!
-- <http://world.openbeautyfacts.org>
+- <https://world.openbeautyfacts.org>
 
 ## Come scan with us! ##
 
@@ -36,22 +40,22 @@ We need Perl volunteers for new features, test writing, debugging, refactoring.
 
 ### Discovering Open Beauty Facts & contributing products###
 - Install the Open Food Facts app (https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner - Help us make it available on iOS)
-- Visit the web version for your country (http://world.openbeautyfacts.org)
-- Visit the wiki (http://en.wiki.openbeautyfacts.org)
+- Visit the web version for your country (https://world.openbeautyfacts.org)
+- Visit the wiki (https://en.wiki.openbeautyfacts.org)
 
 ### Translate and adapt Open Beauty Facts in your language ###
 
-- http://en.wiki.openbeautyfacts.org/Translations
-- http://translations.launchpad.net/openfoodfacts
+- https://en.wiki.openbeautyfacts.org/Translations
+- https://crowdin.com/project/openfoodfacts
 
 ### Delving into the code ###
-- Please see the Product Opener documentation at http://en.wiki.openfoodfacts.org/Project:ProductOpener
+- Please see the Product Opener documentation at https://en.wiki.openfoodfacts.org/Project:ProductOpener
 
 ### How to start contributing ###
 
-- Feel free to join us on Slack at http://slack.openfoodfacts.org in the channels: #openbeautyfacts #productopener #dev
+- Feel free to join us on Slack at https://slack.openfoodfacts.org in the channels: #openbeautyfacts #productopener #dev
 - https://openfoodfacts.slack.com/messages/openbeautyfacts
-- If you're looking for the API, look at http://en.wiki.openfoodfacts.org/API (there are OBF specific sections)
+- If you're looking for the API, look at https://en.wiki.openfoodfacts.org/API (there are OBF specific sections)
 
 
 
