@@ -1,6 +1,6 @@
 
 # Open Beauty Facts
-meta project for Open Beauty Facts. 
+Meta project for Open Beauty Facts. To find out how you can help, go to: https://github.com/openfoodfacts/openbeautyfacts/issues/75
 
 **Status**
 ===
