@@ -16,7 +16,7 @@ iOS: https://github.com/openfoodfacts/openfoodfacts-ios
 Flutter app: https://github.com/openfoodfacts/openfoodfacts-dart and https://github.com/openfoodfacts/smooth-app
 
 
-![Open Beauty Facts](https://static.openbeautyfacts.org/images/misc/openbeautyfacts-logo-en-178x150.png)
+![Open Beauty Facts](https://raw.githubusercontent.com/openfoodfacts/openbeautyfacts/develop/logos/LOGO_OBF_RVB9.svg)
 ## What is Open Beauty Facts ##
 
 ### A cosmetic products database
