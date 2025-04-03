@@ -41,11 +41,11 @@ We need Perl volunteers for new features, test writing, debugging, refactoring.
 ### Discovering Open Beauty Facts & contributing products###
 - Install the Open Food Facts app (https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner - Help us make it available on iOS)
 - Visit the web version for your country (https://world.openbeautyfacts.org)
-- Visit the wiki (https://en.wiki.openbeautyfacts.org)
+- Visit the wiki (https://wiki.openbeautyfacts.org)
 
 ### Translate and adapt Open Beauty Facts in your language ###
 
-- https://en.wiki.openbeautyfacts.org/Translations
+- https://wiki.openbeautyfacts.org/Translations
 - https://crowdin.com/project/openfoodfacts
 
 ### Delving into the code ###
@@ -55,7 +55,7 @@ We need Perl volunteers for new features, test writing, debugging, refactoring.
 
 - Feel free to join us on Slack at https://slack.openfoodfacts.org in the channels: #openbeautyfacts #productopener #dev
 - https://openfoodfacts.slack.com/messages/openbeautyfacts
-- If you're looking for the API, look at https://en.wiki.openfoodfacts.org/API (there are OBF specific sections)
+- If you're looking for the API, look at https://wiki.openfoodfacts.org/API (there are OBF specific sections)
 
 
 
