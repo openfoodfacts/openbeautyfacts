@@ -11,9 +11,8 @@ Meta project for Open Beauty Facts. To find out how you can help, go to: https:/
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/openfoodfacts/localized.svg)](https://crowdin.com/project/openfoodfacts)
 
 For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server).
-Android app: https://github.com/openfoodfacts/openfoodfacts-androidapp
-iOS: https://github.com/openfoodfacts/openfoodfacts-ios
-Flutter app: https://github.com/openfoodfacts/openfoodfacts-dart and https://github.com/openfoodfacts/smooth-app
+
+Mobile app (iOS and Android): https://github.com/openfoodfacts/openfoodfacts-dart and https://github.com/openfoodfacts/smooth-app
 
 
 ![Open Beauty Facts](https://raw.githubusercontent.com/openfoodfacts/openbeautyfacts/develop/logos/LOGO_OBF_RVB9.svg)
