@@ -38,17 +38,17 @@ Data about cosmetics is of public interest and has to be open. The complete data
 We need Perl volunteers for new features, test writing, debugging, refactoring.
 
 ### Discovering Open Beauty Facts & contributing products###
-- Install the Open Food Facts app (https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner - Help us make it available on iOS)
+- Install the Open Food Facts app (https://play.google.com/store/apps/details?id=org.openfoodfacts.scanner - It is also compatible with Open Beauty Facts)
 - Visit the web version for your country (https://world.openbeautyfacts.org)
-- Visit the wiki (https://wiki.openbeautyfacts.org)
+- Visit the wiki (https://wiki.openfoodfacts.org/OBF:Main_Page)
 
 ### Translate and adapt Open Beauty Facts in your language ###
 
-- https://wiki.openbeautyfacts.org/Translations
+- https://wiki.openfoodfacts.org/OBF:Translations
 - https://crowdin.com/project/openfoodfacts
 
 ### Delving into the code ###
-- Please see the Product Opener documentation at https://en.wiki.openfoodfacts.org/Project:ProductOpener
+- Please see the Product Opener documentation at https://wiki.openfoodfacts.org/Product_Opener
 
 ### How to start contributing ###
 
