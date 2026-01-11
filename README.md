@@ -10,10 +10,10 @@ Meta project for Open Beauty Facts. To find out how you can help, go to: https:/
 [![Percentage of issues still open](https://isitmaintained.com/badge/open/openfoodfacts/openbeautyfacts.svg)](https://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Percentage of issues still open")
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/openfoodfacts/localized.svg)](https://crowdin.com/project/openfoodfacts)
 
-For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server).
-Android app: https://github.com/openfoodfacts/openfoodfacts-androidapp
-iOS: https://github.com/openfoodfacts/openfoodfacts-ios
-Flutter app: https://github.com/openfoodfacts/openfoodfacts-dart and https://github.com/openfoodfacts/smooth-app
+For the software powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server).
+- Android app: https://github.com/openfoodfacts/openfoodfacts-androidapp
+- iOS: https://github.com/openfoodfacts/openfoodfacts-ios
+- Flutter app: https://github.com/openfoodfacts/openfoodfacts-dart and https://github.com/openfoodfacts/smooth-app
 
 
 ![Open Beauty Facts](https://raw.githubusercontent.com/openfoodfacts/openbeautyfacts/develop/logos/LOGO_OBF_RVB9.svg)
@@ -38,7 +38,7 @@ Data about cosmetics is of public interest and has to be open. The complete data
 **Open Beauty Facts** needs contributors for documentation, bug triaging, code, feedbacks…
 We need Perl volunteers for new features, test writing, debugging, refactoring.
 
-### Discovering Open Beauty Facts & contributing products###
+### Discovering Open Beauty Facts & contributing products ###
 - Install the Open Food Facts app (https://play.google.com/store/apps/details?id=org.openbeautyfacts.scanner - Help us make it available on iOS)
 - Visit the web version for your country (https://world.openbeautyfacts.org)
 - Visit the wiki (https://wiki.openbeautyfacts.org)
