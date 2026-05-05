@@ -10,7 +10,7 @@ Meta project for Open Beauty Facts. To find out how you can help, go to: https:/
 [![Percentage of issues still open](https://isitmaintained.com/badge/open/openfoodfacts/openbeautyfacts.svg)](https://isitmaintained.com/project/openfoodfacts/openbeautyfacts.svg "Percentage of issues still open")
 [![Crowdin](https://d322cqt584bo4o.cloudfront.net/openfoodfacts/localized.svg)](https://crowdin.com/project/openfoodfacts)
 
-For the sofware powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server).
+For the software powering it (common to Open Food Facts and Open Beauty Facts, see https://github.com/openfoodfacts/openfoodfacts-server).
 
 Mobile app (iOS and Android): https://github.com/openfoodfacts/openfoodfacts-dart and https://github.com/openfoodfacts/smooth-app
 
